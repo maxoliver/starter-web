@@ -20,4 +20,4 @@ Sample website with plenty of files for demos
 
 ### Copyright
 
-Git.Trainig
+    Git.Trainig
